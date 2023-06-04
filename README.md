@@ -12,3 +12,7 @@ A Very Close Copy To RCO But No Viruses, I made this so people can enjoy the opt
 * Optimize The Game
 * Super Simple
 * Install and boom!, 300+ FPS
+
+# Warnings
+
+* Disable Anti Virus because i stupidly used PyInstaller to compile and make the executable.
